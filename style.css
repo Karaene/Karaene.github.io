@@ -189,6 +189,7 @@ h3.heading {
 	width: 50%
 }
 
+
 @media (max-width: 576px){
 	.thumbnail img {
 		width: 70%
@@ -200,6 +201,7 @@ h3.heading {
 		width: 50%
 	}
 }
+
 
 @media (min-width: 992px){
 	.thumbnail img {
@@ -216,10 +218,12 @@ h3.heading {
 .tabs {
 	display: table;   /* Allow the centering to work */
 	margin: 0 auto;
+	padding-left: 0px; 
+	padding-right: 0px;
 }
 
 ul#horizontal-list {
-	min-width: 396px;
+	/*min-width: 396px;*/
 	list-style: none;
 	padding-left: 20px;
 	font-weight: 300;
