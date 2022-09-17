@@ -477,7 +477,7 @@ header .navbar .active a{
 }
 .footer .box-container{
     display: flex;
-    justify-content: center;
+    text-align: center;
     flex-wrap: wrap;
 }
 .footer .box-container .box{
