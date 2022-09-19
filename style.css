@@ -135,19 +135,19 @@ header .navbar .active a{
   position: absolute;
   color: #fff;
   white-space: nowrap;
-  right: -1.5%;
-  font-size: 3vw;
+  right: -7%;
+  font-size: 2.3vw;
   z-index: 9;
-  transform: translateY(-60%);
+  transform: translateY(-270%);
 }
 .home #text2{
   position: absolute;
   color: #fff;
   white-space: nowrap;
-  right: -5.5%;
-  font-size: 0.85vw;
+  right: -20%;
+  font-size: 0.9vw;
   z-index: 9;
-  transform: translateY(70%);
+  transform: translateY(-38%);
 }
 .home #btn{
   text-decoration: none;
@@ -156,7 +156,7 @@ header .navbar .active a{
   border-radius: 40px;
   background: #fff;
   color: #2b1055;
-  font-size: 1.5em;
+  font-size: 1.1em;
   z-index: 9;
   transform: translateY(-500%);
 }
@@ -481,11 +481,11 @@ header .navbar .active a{
     flex-wrap: wrap;
 }
 .footer .box-container .box{
-    margin:2rem;
+    margin:1rem;
     flex:1 1 30rem;
 }
 .footer .box-container .box h3{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     color:#fff;
 }
 .footer .box-container .box p{
@@ -501,7 +501,7 @@ header .navbar .active a{
     background:#222;
     text-align: center;
     color:#fff;
-    padding:2rem 1rem;
+    padding:1.3rem 1rem;
     font-weight: normal;
 }
 .footer .credit a{
